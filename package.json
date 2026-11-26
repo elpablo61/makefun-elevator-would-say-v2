@@ -1,0 +1,1 @@
+{"description":"What the Elevator Would Say — one line in the elevator's own voice (make.fun bounty)","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-elevator-would-say-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
